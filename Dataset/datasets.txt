@@ -1,0 +1,4 @@
+This folder contains the training and testing data for the target model. In order to reduce the memory space, we just list the links to theset dataset here. 
+-- Cifar-10: https://www.cs.toronto.edu/~kriz/cifar.html 
+-- Cifar-100: https://www.cs.toronto.edu/~kriz/cifar.html 
+-- MNIST: http://yann.lecun.com/exdb/mnist/
